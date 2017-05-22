@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
+import Gtest from './components/Gtest';
 import './App.css';
 import Paul from './components/Ptest';
 
