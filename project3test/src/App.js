@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Paul from './components/Ptest';
+import Btest from './Component/Btest';
 
 class App extends Component {
   render() {
